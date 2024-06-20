@@ -17,8 +17,11 @@ Additionally, the website highlights four types of handicrafts available for pur
 4.	Other Handicraft
    
 Technologies Used
+
 HTML: For the structure of the web pages.
+
 CSS: For styling and layout.
+
 JavaScript: For interactivity and dynamic content.
 
 Installation and Setup
@@ -34,8 +37,11 @@ cd [project-directory]
 3.	Open the index.html file in your preferred web browser to view the website.
 
 Usage
+
 Navigate through the different pages using the menu.
+
 Explore the various types of handicrafts offered.
+
 Use the contact form on the "Contact Us" page to get in touch with the shop.
 
 Contributing
